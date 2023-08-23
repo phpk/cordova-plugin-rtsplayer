@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-rtsplayer",
+  "version": "1.0.0",
+  "description": "cordova-plugin-rtsplayer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phpk/cordova-plugin-rtsplayer.git"
+  },
+  "keywords": [
+    "cordova-plugin-rtsplayer"
+  ],
+  "author": "icanwallet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phpk/cordova-plugin-rtsplayer/issues"
+  },
+  "homepage": "https://github.com/phpk/cordova-plugin-rtsplayer#readme"
+}
