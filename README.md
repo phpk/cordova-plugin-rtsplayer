@@ -8,7 +8,7 @@ a very, very, very, very simple rtsp player using FFMpeg and ImageView.
 
 ## Install
 
-```cordova plugin add https://github.com/felipew/rtsplayer.git```
+```cordova plugin add cordova-plugin-rtsplayer```
 
 Execute the compile.sh inside the Plugins folder
 
